@@ -1,0 +1,64 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/script.rpy", line 125, in script
+    pc "We'll need all hands on deck if we want to prevent downtown from going up in flames."
+Exception: Style u'[char.name.lower()]bar' does not exist.
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/script.rpy", line 125, in script
+    pc "We'll need all hands on deck if we want to prevent downtown from going up in flames."
+  File "/Users/gloriaukaoma/Documents/renpy-7.4.9-sdk/renpy/ast.py", line 721, in execute
+    renpy.exports.say(who, what, *args, **kwargs)
+  File "/Users/gloriaukaoma/Documents/renpy-7.4.9-sdk/renpy/exports.py", line 1417, in say
+    who(what, *args, **kwargs)
+  File "/Users/gloriaukaoma/Documents/renpy-7.4.9-sdk/renpy/character.py", line 1235, in __call__
+    self.do_display(who, what, cb_args=self.cb_args, dtt=dtt, **display_args)
+  File "/Users/gloriaukaoma/Documents/renpy-7.4.9-sdk/renpy/character.py", line 887, in do_display
+    **display_args)
+  File "/Users/gloriaukaoma/Documents/renpy-7.4.9-sdk/renpy/character.py", line 633, in display_say
+    rv = renpy.ui.interact(mouse='say', type=type, roll_forward=roll_forward)
+  File "/Users/gloriaukaoma/Documents/renpy-7.4.9-sdk/renpy/ui.py", line 298, in interact
+    rv = renpy.game.interface.interact(roll_forward=roll_forward, **kwargs)
+  File "/Users/gloriaukaoma/Documents/renpy-7.4.9-sdk/renpy/display/core.py", line 3315, in interact
+    repeat, rv = self.interact_core(preloads=preloads, trans_pause=trans_pause, pause=pause, pause_start=pause_start, **kwargs)
+  File "/Users/gloriaukaoma/Documents/renpy-7.4.9-sdk/renpy/display/core.py", line 3735, in interact_core
+    root_widget.visit_all(lambda i : i.per_interact())
+  File "/Users/gloriaukaoma/Documents/renpy-7.4.9-sdk/renpy/display/core.py", line 568, in visit_all
+    d.visit_all(callback, seen)
+  File "/Users/gloriaukaoma/Documents/renpy-7.4.9-sdk/renpy/display/core.py", line 568, in visit_all
+    d.visit_all(callback, seen)
+  File "/Users/gloriaukaoma/Documents/renpy-7.4.9-sdk/renpy/display/core.py", line 568, in visit_all
+    d.visit_all(callback, seen)
+  File "/Users/gloriaukaoma/Documents/renpy-7.4.9-sdk/renpy/display/screen.py", line 441, in visit_all
+    self.child.visit_all(callback, seen=None)
+  File "/Users/gloriaukaoma/Documents/renpy-7.4.9-sdk/renpy/display/core.py", line 568, in visit_all
+    d.visit_all(callback, seen)
+  File "/Users/gloriaukaoma/Documents/renpy-7.4.9-sdk/renpy/display/core.py", line 568, in visit_all
+    d.visit_all(callback, seen)
+  File "/Users/gloriaukaoma/Documents/renpy-7.4.9-sdk/renpy/display/core.py", line 568, in visit_all
+    d.visit_all(callback, seen)
+  File "/Users/gloriaukaoma/Documents/renpy-7.4.9-sdk/renpy/display/core.py", line 568, in visit_all
+    d.visit_all(callback, seen)
+  File "/Users/gloriaukaoma/Documents/renpy-7.4.9-sdk/renpy/display/core.py", line 568, in visit_all
+    d.visit_all(callback, seen)
+  File "/Users/gloriaukaoma/Documents/renpy-7.4.9-sdk/renpy/display/core.py", line 568, in visit_all
+    d.visit_all(callback, seen)
+  File "/Users/gloriaukaoma/Documents/renpy-7.4.9-sdk/renpy/display/core.py", line 558, in visit_all
+    for d in self.visit():
+  File "/Users/gloriaukaoma/Documents/renpy-7.4.9-sdk/renpy/display/behavior.py", line 1901, in visit
+    self.style._visit_bar(rv.append)
+  File "style.pyx", line 555, in renpy.style.StyleCore._visit_bar
+  File "style.pyx", line 528, in renpy.style.StyleCore._get_unoffset
+  File "style.pyx", line 493, in renpy.style.StyleCore._get
+  File "style.pyx", line 679, in renpy.style.build_style
+  File "style.pyx", line 142, in renpy.style.get_full_style
+  File "style.pyx", line 83, in renpy.style.get_style
+Exception: Style u'[char.name.lower()]bar' does not exist.
+
+Darwin-20.6.0-x86_64-i386-64bit
+Ren'Py 7.4.9.2142
+phoenix 0.0.1-alpha
+Tue Jan 11 12:09:49 2022

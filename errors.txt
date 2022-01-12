@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/screens.rpy", line 1601: expected a keyword argument or child statement.
+    $ nameo = char.name.lower() + 'bar'
+    ^
+
+Ren'Py Version: Ren'Py 7.4.9.2142
+Tue Jan 11 12:11:19 2022

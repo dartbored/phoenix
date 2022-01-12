@@ -1,0 +1,108 @@
+The police station is bustling with activity. Detectives run from desk to desk, exchanging notes, signing documents, and digging up files.
+And on occasion, they whisper and cast a glance in your direction.
+As the newest addition to the forensics team, you've barely had a chance to unpack your uniform, much less meet-and-greet with the rest of the officers.
+To make things worse, the desk they gave you looks like it hasn't been used in years.
+Dust and grime covers the top, and when you pull out one of the drawers, there's nothing but cobwebs.
+Just as you were beginning to regret leaving your old precint, you spy someone walking toward your desk.
+It's Sergeant Nathaniel Flament. He gives you a strained smile as he comes up to where you're standing.
+Good morning, Detective.
+From how tired he looks, you can tell it's been a long one too.
+Hope you've had time to settle in and all.
+Also, I, uh, didn't catch your name earlier. Could you remind me?
+Alright Detective [name], welcome to the team.
+He gives your hand a firm shake, and a genuine smile lights up his face.
+Gotta admit, exchanging pleasantries isn't my forté. You're probably tired of my talking, so let's cut to the chase.
+Did you see the case I put on your desk?
+I need you to take a look at what's going on with the fire department.
+We'll need all hands on deck if we want to prevent downtown from going up in flames.
+Yes, chief. I'll be right on it.
+Good. Once you give it a look-over, head over to Elliot. She's just over there at her desk. I want y'all working together on this case.
+He looks about ready to leave, but just before he does, he turns back to you.
+Hey, I know you were a real hot shot wherever you came from, but Elliot will help you get adjusted to how we do things here.
+This isn't a sprawling metropolis where you can just accuse anyone of anything.
+We are a community, and people don't take nicely to being seen as suspects.
+He nods to you, then ambles back to his office.
+Go to Elliot
+So you're the new detective. You look pretty green.
+I'm Elliot, and it looks like we've been thrown together in this mess.
+She slaps her hands down on the stacks of files and printouts on her desk.
+You've read the debrief, right?
+Okay, great. That means you know the nonsense that we are dealing with.
+The fire department is having trouble doing its one job: stopping fires.
+There have been at least 3 incidents of what the chief suspects is arson over the past few weeks.
+Oh really?
+She doesn't look impressed.
+I can tell you're lying. I went through detective school too, you know.
+If we're going to work together, you're going to need to keep up with protocol.
+That means no slacking, especially not on paperwork.
+Now let's get you up to speed...
+The fire department is having trouble doing its one job: stopping fires.
+There have been at least 3 incidents of what the chief suspects is arson over the past few weeks.
+She gives you a dirty look.
+I don't know what kind of operations they ran at your old precint, but here we actually get things done.
+That means no slacking, especially not on paperwork.
+Now let's get you up to speed...
+The fire department is having trouble doing its one job: stopping fires.
+There have been at least 3 incidents of what the chief suspects is arson over the past few weeks.
+The first time it happened, the fire department ran in and did their thing, and now they seem to be handling these newer fires worse than they did initially.
+I can't believe it! They have a bigger budget than us and they're never understaffed and yet—
+She cuts herself off and takes a deep breath to reel in her temper. It's obvious she has some serious greivance with the fire station.
+Let's just cut to the point. You need to go down to the firehouse and collect some statements. Maybe they'll give us a clue to how incompetent they are, though I don't need one.
+I know the chief thinks it's someone setting fire to buildings, but I just think it's fire inspectors getting paid to look the other way.
+This whole investigation is probably moot, but until the chief decides the same, we're on the case.
+Now go out there and try to get some clues out of those firefighters.
+Didn't I tell you to go down to Station 4 and find some clues?
+The firehouse is relatively new, and gives off a refined air.
+The garage doors are open, and you can see some of the crew hanging around the main engine.
+They see you approaching and some give you a friendly wave.
+You wave at the firefighters.
+Thinking back to what the report said, you know that the arsonist has to be someone with inside knowledge of the fire department.
+It could be anyone, so you keep a keen eye as you walk up to the fire crew.
+Before you can get a word out, one of them stands and meets you at the opening of the garage.
+What can I do for you, officer?
+No problem. I assume this is about the fires downtown?
+You nod and pull out your notepad.
+Now can I get your name and rank, please?
+Fire Captain Malenko of Fire Station 4.
+Would you mind if I get your name as well?
+Detective [name] from the main precint. I'm new around here.
+I can tell. I know most of the officers and detectives around here.
+Let me guess, you're a big city cop who decided to strike out on your own in a post-industrialist micro metropolitan township?
+He laughs at your expression.
+Don't sweat it, it's more common than you think.
+Anyway, you wanted to ask about the Phoenix fires?
+Phoenix? Like the mythical bird creature that can be reborn from its own ashes?
+Are the fires really called that?
+Well, ever since we realized it was a pattern, we joked that the person lighting the fires is like a phoenix: always coming back.
+And everyone has been talking nonstop about the fires, so the name kind of stuck.
+Do you think it's the same person lighting all the fires?
+It has to be. I was there when all of them were being put out. The type of building, speed of the fire, the fuel used... It was all nearly identical.
+I hate to think that someone in our department is going out and committing arson in residential areas, but from what I've seen, the arsonist has to have some knowledge of our protocols.
+Maleko goes quiet at that, obviously unsettled by that implication.
+Well, if you need to—
+Well, who else would be swinging by the station on a Monday morning?
+This isn't exactly the social hub of the town, unfortunately.
+It's nice to meet you though, officer...
+[name]. And it's detective, actually.
+He extends his hand for you to shake, and then leads you into the firehouse.
+My apologies, Detective [name]. I didn't think they'd send the big guns over so soon.
+He returns to his place by the fire engine, though most of the crew has wandered off to work on various things.
+You can call me Maleko, but most of my crew just call me captain.
+So this is the captain of Station 4. He's a lot more friendly than what you expected of someone whose crew is under investigation.
+Setting that thought aside, you pull out your notepad, ready to jot down any clues.
+So you don't get any civilian visitors at the station?
+He shakes his head.
+Not that I know of. It's pretty quiet around here.
+And you haven't seen any strangers or unusual people around the station recently?
+He laughs a little at that, surprised.
+Not at all. The only people I see coming in are my teammates.
+But your visit is most welcome. It's great to see a new face around here, even if it's just to ask us some questions.
+Station 4 will happily cooperate with your investigation.
+All of a sudden, alarms and bells fill the station with noise.
+What was a relatively calm scene two seconds ago has now turned into a whirlwind of boots and belts and heavy jackets.
+A grave expression falls over the fire captain's face, and he turns back to you for a moment.
+I gotta go, but feel free to stop by later.
+He looks around at the station, listens to his radio, shouts some orders, then turns back to you.
+Probably a lot later.
+With that, he swings up into the fire truck, and they roll out of the garage, sirens and bells filling the air with noise.
+You have a feeling you should head back to the precint and share your new clues with the sergeant.
